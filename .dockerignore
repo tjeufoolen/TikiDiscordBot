@@ -1,0 +1,8 @@
+node_modules
+.git
+.github
+.gitignore
+.env.example
+.prettierrc
+eslint.config.js
+*.md

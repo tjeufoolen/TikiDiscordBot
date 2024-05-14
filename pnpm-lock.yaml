@@ -11,10 +11,10 @@ importers:
       discord.js:
         specifier: ^14.15.2
         version: 14.15.2
-    devDependencies:
       dotenv:
         specifier: ^16.4.5
         version: 16.4.5
+    devDependencies:
       eslint:
         specifier: ^9.2.0
         version: 9.2.0

@@ -15,6 +15,13 @@ A Simple discord bot that allows users to quote a certain text and specify its a
 3. Copy `.env.example` to `.env` and fill in your credentials
 4. Run `pnpm start`
 
+## Docker
+
+This bot can run inside Docker. Use the following commands to build an image and run the image inside a docker container:
+
+- `podman build --tag tiki-discord-bot .`
+- `podman run tiki-discord-bot`
+
 ## Authors
 
 - [Tjeu Foolen](https://github.com/tjeufoolen)

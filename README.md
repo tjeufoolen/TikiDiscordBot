@@ -21,4 +21,5 @@ A Simple discord bot that allows users to quote a certain text and specify its a
 
 ## References
 
-- [Documentation discord.js](https://discord.js.org/docs/packages/discord.js)
+- [Documentation discord.js](https://discord.js.org/docs/packages/discord.js/14.15.2)
+- [Guide discord.js](https://discordjs.guide/#before-you-begin)

@@ -19,10 +19,14 @@ A Simple discord bot written for the tikinetwork community
 
 ## Docker
 
-This bot can run inside Docker. Use the following commands to build an image and run the image inside a docker container:
+This project can run inside Docker. Use the following commands to build an image and run the image inside a docker container:
 
 - `podman build --tag tiki-discord-bot .`
 - `podman run tiki-discord-bot`
+
+## Create release candidate
+
+Every now and then a collection of commits have been merged to main and it is time to create a new release candidate. Whenever this candidate is created an automated github action kicksoff which builds the docker image and publishes it to the [dockerhub repository](https://hub.docker.com/r/tjeufoolen/tiki-discord-bot/tags).
 
 ## Authors
 

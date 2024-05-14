@@ -1,4 +1,6 @@
-# TikiDiscordBot ![Github Action CI Badge](https://github.com/tjeufoolen/TikiDiscordBot/actions/workflows/ci.yml/badge.svg)
+# TikiDiscordBot 
+
+![Github Action CI Badge](https://github.com/tjeufoolen/TikiDiscordBot/actions/workflows/ci.yml/badge.svg) ![Github Action Docker image publish badge](https://github.com/tjeufoolen/TikiDiscordBot/actions/workflows/docker.yml/badge.svg)
 
 A Simple discord bot written for the tikinetwork community
 

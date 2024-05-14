@@ -1,6 +1,6 @@
-# Quotes bot ![Github Action CI Badge](https://github.com/tjeufoolen/TikiDiscordBot/actions/workflows/ci.yml/badge.svg)
+# TikiDiscordBot ![Github Action CI Badge](https://github.com/tjeufoolen/TikiDiscordBot/actions/workflows/ci.yml/badge.svg)
 
-A Simple discord bot that allows users to quote a certain text and specify its author
+A Simple discord bot written for the tikinetwork discord community
 
 ## Requirements
 

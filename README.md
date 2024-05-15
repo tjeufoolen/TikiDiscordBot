@@ -26,7 +26,7 @@ This project can run inside Docker. Use the following commands to build an image
 
 ## Release candidate(s)
 
-Every now and then a collection of commits have been merged to main and it is time to create a new release candidate. Whenever this candidate is created an automated github action kicksoff which builds the docker image and publishes it to the [dockerhub repository](https://hub.docker.com/r/tjeufoolen/tiki-discord-bot/tags).
+Every now and then a collection of commits have been merged to main and it is time to create a new release candidate. Whenever this candidate is created an automated github action kicksoff which builds the docker image and publishes it to the [dockerhub repository](https://hub.docker.com/r/tjeufoolen/tiki-discord-bot).
 
 ## Authors
 
